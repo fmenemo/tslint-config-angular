@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-angular",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set of preset rules for tslint in Angular projects",
   "main": "tslint.json",
   "scripts": {
