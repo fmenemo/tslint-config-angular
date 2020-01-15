@@ -1,0 +1,32 @@
+{
+  "name": "tslint-config-angular",
+  "version": "1.0.0",
+  "description": "Set of preset rules for tslint in Angular projects",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmenemo/tslint-config-angular.git"
+  },
+  "keywords": [
+    "tslint",
+    "angular"
+  ],
+  "author": "Fran Menéndez Moya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmenemo/tslint-config-angular/issues"
+  },
+  "homepage": "https://github.com/fmenemo/tslint-config-angular#readme",
+  "dependencies": {
+    "@angular/compiler": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "codelyzer": "^5.2.1",
+    "rxjs": "^6.5.4",
+    "rxjs-tslint": "^0.1.7",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0"
+  }
+}
